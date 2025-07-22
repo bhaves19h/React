@@ -1,0 +1,8 @@
+npm create vite@latest
+
+type . in the terminal 
+
+select react
+
+select javascript+swc
+

@@ -6,3 +6,19 @@ select react
 
 select javascript+swc
 
+npm install for the node modules
+
+npm run dev  // if made using npx then use npm start
+
+main coding will be done in app.jsx
+Sample code:
+const App = ()=>{
+  return <>
+  <h1>hello , react.js</h1>
+  <h3>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime, quas?</h3>
+  </>
+} 
+
+export default App
+
+
